@@ -1,0 +1,7 @@
+C:\Users\Pedro\OneDrive - Etec Centro Paula Souza\Desktop\CURSOS\C#\maisVelhoClass\bin\Debug\maisVelhoClass.exe.config
+C:\Users\Pedro\OneDrive - Etec Centro Paula Souza\Desktop\CURSOS\C#\maisVelhoClass\bin\Debug\maisVelhoClass.exe
+C:\Users\Pedro\OneDrive - Etec Centro Paula Souza\Desktop\CURSOS\C#\maisVelhoClass\bin\Debug\maisVelhoClass.pdb
+C:\Users\Pedro\OneDrive - Etec Centro Paula Souza\Desktop\CURSOS\C#\maisVelhoClass\obj\Debug\maisVelhoClass.csprojAssemblyReference.cache
+C:\Users\Pedro\OneDrive - Etec Centro Paula Souza\Desktop\CURSOS\C#\maisVelhoClass\obj\Debug\maisVelhoClass.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\OneDrive - Etec Centro Paula Souza\Desktop\CURSOS\C#\maisVelhoClass\obj\Debug\maisVelhoClass.exe
+C:\Users\Pedro\OneDrive - Etec Centro Paula Souza\Desktop\CURSOS\C#\maisVelhoClass\obj\Debug\maisVelhoClass.pdb
