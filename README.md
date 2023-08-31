@@ -1,2 +1,2 @@
 # C-Sharp
-repositório dedicado aos projetos elaborados durante curso de C#
+repositório dedicado soemnte aos projetos elaborados durante curso de C#
